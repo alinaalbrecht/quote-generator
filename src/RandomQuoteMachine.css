@@ -1,0 +1,44 @@
+#quote-box {
+  max-width: 500px;
+  padding: 40px 30px;
+  margin: 5% auto;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 10px;
+  font-family: "Raleway";
+  line-height: 200%;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+#new-quote {
+  width: 30%;
+  display: block;
+  margin: 10px auto;
+  color: #fff;
+  border-radius: 3px;
+  border-width: 0;
+  line-height: 250%;
+  cursor: pointer;
+}
+
+body {
+  transition-duration: 0.5s;
+  transition-timing-function: ease-in;
+  background-color: hsl(314, 100%, 30%);
+}
+
+h1 {
+  font-family: "Ribeye Marrow";
+  text-align: center;
+  font-size: 50px;
+  color: #fff;
+  margin-top: 5%;
+}
+
+#text {
+  font-size: 25px;
+}
+
+#author {
+  font-size: 18px;
+}
