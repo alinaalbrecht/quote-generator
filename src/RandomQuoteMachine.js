@@ -55,8 +55,8 @@ export class RandomQuoteMachine extends React.Component {
     let index = Math.floor(Math.random() * possibleQuotes.length);
     this.setState({
       color: color,
-      quote: possibleQuotes[initialIndex].quote,
-      author: possibleQuotes[initialIndex].author,
+      quote: possibleQuotes[index].quote,
+      author: possibleQuotes[index].author,
     });
   }
 
