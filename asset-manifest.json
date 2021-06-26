@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/quote_generator/static/css/main.15ce67d0.chunk.css",
-    "main.js": "/quote_generator/static/js/main.45167b71.chunk.js",
-    "main.js.map": "/quote_generator/static/js/main.45167b71.chunk.js.map",
+    "main.css": "/quote_generator/static/css/main.7482e103.chunk.css",
+    "main.js": "/quote_generator/static/js/main.48ec6489.chunk.js",
+    "main.js.map": "/quote_generator/static/js/main.48ec6489.chunk.js.map",
     "runtime-main.js": "/quote_generator/static/js/runtime-main.43e92180.js",
     "runtime-main.js.map": "/quote_generator/static/js/runtime-main.43e92180.js.map",
-    "static/js/2.1cbd785d.chunk.js": "/quote_generator/static/js/2.1cbd785d.chunk.js",
-    "static/js/2.1cbd785d.chunk.js.map": "/quote_generator/static/js/2.1cbd785d.chunk.js.map",
+    "static/js/2.8d156a97.chunk.js": "/quote_generator/static/js/2.8d156a97.chunk.js",
+    "static/js/2.8d156a97.chunk.js.map": "/quote_generator/static/js/2.8d156a97.chunk.js.map",
     "index.html": "/quote_generator/index.html",
-    "static/css/main.15ce67d0.chunk.css.map": "/quote_generator/static/css/main.15ce67d0.chunk.css.map",
-    "static/js/2.1cbd785d.chunk.js.LICENSE.txt": "/quote_generator/static/js/2.1cbd785d.chunk.js.LICENSE.txt"
+    "static/css/main.7482e103.chunk.css.map": "/quote_generator/static/css/main.7482e103.chunk.css.map",
+    "static/js/2.8d156a97.chunk.js.LICENSE.txt": "/quote_generator/static/js/2.8d156a97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.43e92180.js",
-    "static/js/2.1cbd785d.chunk.js",
-    "static/css/main.15ce67d0.chunk.css",
-    "static/js/main.45167b71.chunk.js"
+    "static/js/2.8d156a97.chunk.js",
+    "static/css/main.7482e103.chunk.css",
+    "static/js/main.48ec6489.chunk.js"
   ]
 }
