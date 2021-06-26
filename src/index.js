@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import { App } from "./App";
 import "./index.css";
-import { RandomQuoteMachine } from "./RandomQuoteMachine";
+/* import { App } from "./App"; */
 
-ReactDOM.render(<RandomQuoteMachine />, document.querySelector("#root"));
+ReactDOM.render(<App />, document.querySelector("#root"));
